@@ -54,10 +54,8 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
     
-<img src="images/swift.png" alt="swift" style="vertical-align:top; margin:4px">
-<img src="images/ai.png" alt="ai" style="vertical-align:top; margin:4px"><img src="images/html.png" alt="html" style="vertical-align:top; margin:4px"><img src="images/mobile.png" alt="mobile" style="vertical-align:top; margin:4px"><img src="images/npm.png" alt="npm" style="vertical-align:top; margin:4px"><img src="images/tools.png" alt="tools" style="vertical-align:top; margin:4px">   
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-
+<img src="https://raw.githubusercontent.com/warmodroid/warmodroid/master/images/swift.png" alt="swift" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/warmodroid/warmodroid/master/images/ai.png" alt="ai" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/warmodroid/warmodroid/master/images/html.png" alt="html" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/warmodroid/warmodroid/master/images/mobile.png" alt="mobile" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/warmodroid/warmodroid/master/images/npm.png" alt="npm" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/warmodroid/warmodroid/master/images/tools.png" alt="tools" style="vertical-align:top; margin:4px">
 </p>
 
 ### - Blog 🌱
