@@ -62,7 +62,7 @@
 
 <p align="center">
 
-[<img src="images/wordpress.png">](https://www.warmodroid.xyz) 
+[<img src="https://raw.githubusercontent.com/warmodroid/warmodroid/master/images/wordpress.png">](https://www.warmodroid.xyz) 
 </p>
 ***********************************
 
